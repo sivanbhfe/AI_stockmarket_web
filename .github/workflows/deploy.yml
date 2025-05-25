@@ -1,5 +1,4 @@
 name: Deploy EC2 on branch push
-
 on:
   push:
     branches:
